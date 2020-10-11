@@ -37,3 +37,6 @@ Nope, in fact its easier than without the library
 
 **VERSION 0.1.0**
  - First version out, best of luck
+
+ - Testing using this as a subtree
+
